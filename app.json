@@ -1,0 +1,12 @@
+{
+  "name": "infiniteLoading",
+  "displayName": "infiniteLoading",
+  "expo": {
+    "name": "infiniteLoading",
+    "slug": "infiniteLoading",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
