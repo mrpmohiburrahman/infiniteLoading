@@ -1,5 +1,5 @@
 import React, { FC, memo } from 'react';
-import { View, StyleSheet, Text, TextInput as Input } from 'react-native';
+import { View, TextInput as Input } from 'react-native';
 // import { TextInput as Input } from 'react-native-paper';
 // import { theme } from '../core/theme';
 interface Props {
